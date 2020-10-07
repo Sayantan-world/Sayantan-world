@@ -7,3 +7,13 @@
 - Lets have a cup of coffee and discuss how amazing coding is, connect in<a href="https://www.facebook.com/profile.php?id=100009011024546" target="_blank"> Facebook</a> or 
   <a href="https://twitter.com/sayantan_world" target="_blank"> Twitter</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/sayantan-pal-3b900bb6/" target="_blank">LinkedIn</a> 💼
+---
+
+## Me at a glance
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sayantan-world)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayantan-world&show_icons=true) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan-world)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/Sayantan-world) 
