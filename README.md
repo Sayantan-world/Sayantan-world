@@ -10,10 +10,10 @@
 ---
 
 ## Me at a glance
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sayantan-world)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sayantan-world&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayantan-world&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayantan-world&show_icons=true&theme=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan-world)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan-world&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/Sayantan-world) 
